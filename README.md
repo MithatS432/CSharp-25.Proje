@@ -1,2 +1,2 @@
-# CSharp-25.Proje
+# C#-25.Proje
 Çok Biçimlilik (Polymorphism)1
